@@ -1,0 +1,880 @@
+[
+  {
+    "id": "user-new-1",
+    "firstName": "ელენე",
+    "lastName": "კალანდაძე",
+    "email": "elene.kalandadze@goldage.ge",
+    "phone": "599 14 25 36",
+    "birthDate": "1974-05-12",
+    "age": 52,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "სოლოლაკი",
+    "photo": "/assets/portrait_elene_tbilisi_1791864138662-BKip4GrN.jpg",
+    "gallery": [
+      "/assets/portrait_elene_tbilisi_1791864138662-BKip4GrN.jpg"
+    ],
+    "bio": "ჩვეულებრივი, თბილი და მეგობრული ქალი ვარ. მიყვარს ყვავილები, მყუდრო აივანი ძველ თბილისში, დილის ყავა და გულწრფელი საუბრები. ვეძებ სანდო, კარგ ადამიანს ერთად ყოფნისა და ურთიერთგაგებისთვის.",
+    "interests": [
+      "ყვავილები",
+      "ძველი თბილისი",
+      "კულინარია",
+      "კლასიკური მუსიკა",
+      "სეირნობა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 50,
+    "preferredAgeMax": 65,
+    "preferredLocation": "თბილისი ან შემოგარენი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "დილის ყავა აივანზე, ყვავილების მოვლა, მშვიდი ცხოვრება",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-new-2",
+    "firstName": "ლევან",
+    "lastName": "მაისურაძე",
+    "email": "levan.maisuradze@goldage.ge",
+    "phone": "595 41 82 73",
+    "birthDate": "1971-09-18",
+    "age": 55,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "ქუთაისი",
+    "region": "იმერეთი",
+    "photo": "/assets/portrait_levan_kutaisi_1791864157913-CJ3AL3H9.jpg",
+    "gallery": [
+      "/assets/portrait_levan_kutaisi_1791864157913-CJ3AL3H9.jpg"
+    ],
+    "bio": "ინჟინერი ვარ ქუთაისიდან. მიყვარს ბუნება, იმერული სითბო, რიონის სანაპიროზე გასეირნება და გულწრფელი ურთიერთობები. ვეძებ სასიამოვნო, კეთილ ქალბატონს ცხოვრების გასაზიარებლად.",
+    "interests": [
+      "ბუნება",
+      "მოგზაურობა",
+      "ისტორია",
+      "ქართული სუფრა",
+      "ფეხბურთი"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 48,
+    "preferredAgeMax": 60,
+    "preferredLocation": "ქუთაისი, იმერეთი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "სუფთა ჰაერი, მშვიდი საღამოები, მეგობრებთან ურთიერთობა",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-new-3",
+    "firstName": "ქეთი",
+    "lastName": "ჭელიძე",
+    "email": "keti.chelidze@goldage.ge",
+    "phone": "577 92 34 51",
+    "birthDate": "1976-02-20",
+    "age": 50,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "ბათუმი",
+    "region": "აჭარა",
+    "photo": "/assets/portrait_keti_batumi_1791864177413-DEpeYh8v.jpg",
+    "gallery": [
+      "/assets/portrait_keti_batumi_1791864177413-DEpeYh8v.jpg"
+    ],
+    "bio": "ფარმაცევტი ვარ, ვცხოვრობ ბათუმში. მიყვარს ზღვა, საღამოს ბულვარზე ფეხით სეირნობა, ზღვის ტალღების ხმა და პოზიტიური განწყობა. მინდა გავიცნო ყურადღებიანი, ერთგული მამაკაცი.",
+    "interests": [
+      "ზღვა",
+      "ფეხით სიარული",
+      "მედიცინა",
+      "მოგზაურობა",
+      "კინო"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 48,
+    "preferredAgeMax": 62,
+    "preferredLocation": "ბათუმი ან დასავლეთ საქართველო",
+    "languages": [
+      "ქართული",
+      "რუსული",
+      "ინგლისური"
+    ],
+    "lifestyle": "აქტიური, ჯანსაღი, ზღვისპირა გასეირნება",
+    "familyStatus": "დასაოჯახებელი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-new-4",
+    "firstName": "ირაკლი",
+    "lastName": "ჯავახიშვილი",
+    "email": "irakli.javakhishvili@goldage.ge",
+    "phone": "593 18 29 40",
+    "birthDate": "1968-11-04",
+    "age": 58,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "ვაკე",
+    "photo": "/assets/portrait_irakli_telavi_1791864196318-CztLpBdn.jpg",
+    "gallery": [
+      "/assets/portrait_irakli_telavi_1791864196318-CztLpBdn.jpg"
+    ],
+    "bio": "არქიტექტორი, მიყვარს წიგნების კითხვა, კაფეში მშვიდი საუბარი, თეატრი და ქართული ისტორია. ვაფასებ ქალურობას, სითბოსა და გულწრფელობას. ვეძებ განათლებულ, თბილ ქალბატონს.",
+    "interests": [
+      "არქიტექტურა",
+      "ლიტერატურა",
+      "თეატრი",
+      "ყავა",
+      "ფოტოგრაფია"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 50,
+    "preferredAgeMax": 63,
+    "preferredLocation": "თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული",
+      "გერმანული"
+    ],
+    "lifestyle": "წიგნების კითხვა, საღამოს გასეირნება, კულტურული საღამოები",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "აქტიურია",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-new-5",
+    "firstName": "ნინო",
+    "lastName": "ასათიანი",
+    "email": "nino.asatiani@goldage.ge",
+    "phone": "598 76 54 32",
+    "birthDate": "1970-07-15",
+    "age": 56,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "გორი",
+    "region": "შიდა ქართლი",
+    "photo": "/assets/portrait_nino_gori_1791864220703-Dr3W5ioZ.jpg",
+    "gallery": [
+      "/assets/portrait_nino_gori_1791864220703-Dr3W5ioZ.jpg"
+    ],
+    "bio": "ბიბლიოთეკარი ვარ. მშვიდი, კეთილი და ოჯახური სითბოს მოყვარული ადამიანი. მიყვარს მცენარეების მოვლა, გემრიელი ნამცხვრების გამოცხობა და წიგნები. ვეძებ კეთილგანწყობილ, პატიოსან ადამიანს.",
+    "interests": [
+      "წიგნები",
+      "მებაღეობა",
+      "კულინარია",
+      "მშვიდი საუბრები",
+      "ქსოვა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 54,
+    "preferredAgeMax": 68,
+    "preferredLocation": "გორი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "მშვიდი ცხოვრება, მყუდრო სახლი, მებაღეობა",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-1",
+    "firstName": "ნანა",
+    "lastName": "ჩხეიძე",
+    "email": "nana.chkheidze@goldage.ge",
+    "birthDate": "1963-04-18",
+    "age": 63,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "ვაკე-საბურთალო",
+    "photo": "/assets/portrait_nana_1791830893721-BJEKgHbY.jpg",
+    "gallery": [
+      "/assets/portrait_nana_1791830893721-BJEKgHbY.jpg"
+    ],
+    "bio": "პროფესიით ლიტერატურათმცოდნე ვარ, წლების განმავლობაში ვასწავლიდი უ��ივერსიტეტში. მიყვარს კლასიკური მუსიკა, ოპერა, მებაღეობა და მშვიდი საღამოები კარგი წიგნით ხელში. ვეძებ კეთილგანწყობილ, ინტელიგენტ მამაკაცს, ვისთანაც შემეძლება გულწრფელი საუბარი, თეატრში სიარული და ცხოვრების სიხარულის გაზიარება.",
+    "interests": [
+      "ლიტერატურა",
+      "კლასიკური მუსიკა",
+      "მებაღეობა",
+      "თეატრი",
+      "კულინარია"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "თბილისი ან შემოგარენი",
+    "languages": [
+      "ქართული",
+      "რუსული",
+      "ფრანგული"
+    ],
+    "lifestyle": "დილის სეირნობა კუს ტბაზე, საღამოს ჩაი, კულტურული ღონისძიებები",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-2",
+    "firstName": "დავით",
+    "lastName": "ბერიძე",
+    "email": "davit.beridze@goldage.ge",
+    "birthDate": "1959-11-12",
+    "age": 66,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "ბათუმი",
+    "region": "აჭარა",
+    "photo": "/assets/portrait_davit_1791830907942-Cmfnnpmq.jpg",
+    "gallery": [
+      "/assets/portrait_davit_1791830907942-Cmfnnpmq.jpg"
+    ],
+    "bio": "ყოფილი ინჟინერ-მშენებელი, ამჟამად პენსიაზე. ძალიან მიყვარს ზღვის სანაპიროზე დილის სეირნობა, ჭადრაკი და საკუთარ ეზოში ხეხილის მოვლა. ვაფასებ ქალურ სინაზეს, იუმორის გრძნობასა და ოჯახურ სითბოს. მსურს გავიცნო სასიამოვნო ქალბატონი სერიოზული თანაცხოვრებისა და ქორწინებისთვის.",
+    "interests": [
+      "ჭადრაკი",
+      "ზღვაზე სეირნობა",
+      "მებაღეობა",
+      "ისტორია",
+      "მოგზაურობა"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 58,
+    "preferredAgeMax": 68,
+    "preferredLocation": "ბათუმი ან დასავლეთ საქართველო",
+    "languages": [
+      "ქართული",
+      "რუსული",
+      "ინგლისური"
+    ],
+    "lifestyle": "ჯანსაღი ცხოვრება, ზღვის ჰაერი, სუფთა გარემო",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "აქტიურია",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-3",
+    "firstName": "მზია",
+    "lastName": "ჯაფარიძე",
+    "email": "mzia.japaridze@goldage.ge",
+    "birthDate": "1965-08-24",
+    "age": 61,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "ქუთაისი",
+    "region": "იმერეთი",
+    "photo": "/assets/portrait_mzia_1791830923866-DEKM-WC8.jpg",
+    "gallery": [
+      "/assets/portrait_mzia_1791830923866-DEKM-WC8.jpg"
+    ],
+    "bio": "ექიმი-თერაპევტი, კეთილი და ენერგიული ადამიანი. მიყვარს ქართული ტრადიციული სამზარეულოს მომზადება, მეგობრებთან შეხვედრა, ბუნებაში გასვლა და ყვავილების მოვლა. მჯერა, რომ სიყვარული ნებისმიერ ასაკში ამშვენებს ცხოვრებას. ვეძებ პატიოსან მამაკაცს სანდო მეგობრობისა და მყარი ურთიერთობისთვის.",
+    "interests": [
+      "მედიცინა",
+      "ჯანსაღი ცხოვრება",
+      "ხალხური მუსიკა",
+      "კულინარია",
+      "მოგზაურობა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 59,
+    "preferredAgeMax": 70,
+    "preferredLocation": "ქუთაისი, იმერეთი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "აქტიური, პოზიტიური, ყოველდღიური ფეხით სიარული",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "5 წუთის წინ",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-4",
+    "firstName": "არჩილ",
+    "lastName": "მაისურაძე",
+    "email": "archil.maisuradze@goldage.ge",
+    "birthDate": "1957-03-15",
+    "age": 69,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "თელავი",
+    "region": "კახეთი",
+    "photo": "/assets/portrait_archil_1791830938993-DnGW9kJx.jpg",
+    "gallery": [
+      "/assets/portrait_archil_1791830938993-DnGW9kJx.jpg"
+    ],
+    "bio": "მევენახე და ისტორიკოსი კახეთიდან. მაქვს საკუთარი მყუდრო მარანი და ვენახი თელავის მახლობლად. მიყვარს ქართული მრავალხმიანი სიმღერა, პოეზია და გულწრფელი საუბრები ბუხართან. ვეძებ კეთილ, თბილ ქალბატონს, ვისთან ერთადაც გავატარებ ცხოვრების ოქროს წლებს სიმშვიდესა და ურთიერთპატივისცემაში.",
+    "interests": [
+      "მეღვინეობა",
+      "ქართული ფოლკლორი",
+      "ისტორია",
+      "პოეზია",
+      "ბუნება"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "საქართველო",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "სოფლის მყუდრო ცხოვრება, ჯანსაღი ჰაერი, ვენახის მოვლა",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-5",
+    "firstName": "ლალი",
+    "lastName": "ღვინიაშვილი",
+    "email": "lali.ghviniashvili@goldage.ge",
+    "birthDate": "1967-09-05",
+    "age": 58,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "მთაწმინდა",
+    "photo": "/assets/portrait_lali_1791830955372-oxPk66iw.jpg",
+    "gallery": [
+      "/assets/portrait_lali_1791830955372-oxPk66iw.jpg"
+    ],
+    "bio": "მუსიკის პედაგოგი (ფორტეპიანო). ვცხოვრობ ძველ თბილისში, მიყვარს ქალაქის ქუჩებში სეირნობა, გამოფენები, კლასიკური კონცერტები და საინტერესო ადამიანებთან ურთიერთობა. მჯერა, რომ ასაკი მხოლოდ ციფრია, როცა სული ახალგაზრდაა. ვეძებ თანამოაზრეს, მეგობარსა და მოსიყვარულე პარტნიორს.",
+    "interests": [
+      "კლასიკური მუსიკა",
+      "ხელოვნება",
+      "თეატრი",
+      "ფეხით სეირნობა",
+      "ფოტოგრაფია"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 56,
+    "preferredAgeMax": 68,
+    "preferredLocation": "თბილისი",
+    "languages": [
+      "ქართული",
+      "იტალიური",
+      "რუსული"
+    ],
+    "lifestyle": "კულტურული ცხოვრება, დილის ყავა აივანზე, კონცერტები",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "აქტიურია",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-6",
+    "firstName": "თენგიზ",
+    "lastName": "კიკნაძე",
+    "email": "tengiz.kiknadze@goldage.ge",
+    "birthDate": "1958-06-30",
+    "age": 67,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "რუსთავი",
+    "region": "ქვემო ქართლი",
+    "photo": "/assets/portrait_tengiz_1791830971689-Chx3UZwQ.jpg",
+    "gallery": [
+      "/assets/portrait_tengiz_1791830971689-Chx3UZwQ.jpg"
+    ],
+    "bio": "მათემატიკის ყოფილი მასწავლებელი, ამჟამად ვეწევი წიგნების რედაქტირებას. მიყვარს ლოგიკური თამაშები, ველოსიპედით სეირნობა, მთის ჰაერი და თევზაობა. ვეძებ მეგობრულ, მშვიდ და თბილ ქალბატონს, ვისთანაც ერთად შევძლებ ცხოვრების ლამაზი წლების გატარებას.",
+    "interests": [
+      "თევზაობა",
+      "წიგნები",
+      "ველოსიპედი",
+      "ბუნება",
+      "ჭადრაკი"
+    ],
+    "relationshipGoal": "მეგობრობა",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 70,
+    "preferredLocation": "რუსთავი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "მშვიდი, გაწონასწორებული, ბუნებასთან სიახლოვე",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": false,
+    "lastActive": "1 საათის წინ",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-7",
+    "firstName": "ეთერ",
+    "lastName": "აბაშიძე",
+    "email": "eter.abashidze@goldage.ge",
+    "birthDate": "1961-03-21",
+    "age": 65,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "ბორჯომი",
+    "region": "სამცხე-ჯავახეთი",
+    "photo": "/assets/portrait_eter_1791830990402-BuaWSyun.jpg",
+    "gallery": [
+      "/assets/portrait_eter_1791830990402-BuaWSyun.jpg"
+    ],
+    "bio": "ვცხოვრობ ბორჯომის ულამაზეს ხეობაში. პენსიაზე გასვლის შემდეგ მთელ დროს ვუთმობ სამკურნალო მცენარეების შეგროვებას, ხელსაქმესა და მყუდრო სახლის მოვლას. ვეძებ ღირსეულ, პატიოსან მამაკაცს, რომელსაც უყვარს ბუნება და სურს ერთგული ცხოვრების თანამგზავრი.",
+    "interests": [
+      "ხელსაქმე",
+      "ბუნებაში სეირნობა",
+      "მებაღეობა",
+      "ჩაის კულტურა",
+      "კულინარია"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 62,
+    "preferredAgeMax": 74,
+    "preferredLocation": "ბორჯომი, თბილისი ან ახალციხე",
+    "languages": [
+      "ქართული"
+    ],
+    "lifestyle": "ბორჯომის პარკში ყოველდღიური გასეირნება, სუფთა ჰაერი",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-8",
+    "firstName": "ზურაბ",
+    "lastName": "გეგეშიძე",
+    "email": "zurab.gegeshidze@goldage.ge",
+    "birthDate": "1957-10-08",
+    "age": 68,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "ჩუღურეთი",
+    "photo": "/assets/portrait_zurab_1791831008363-DygcjqlS.jpg",
+    "gallery": [
+      "/assets/portrait_zurab_1791831008363-DygcjqlS.jpg"
+    ],
+    "bio": "არქიტექტორი, მხატვარი. ჩემი გატაცებაა ფერწერა, ქართული ისტორიული ძეგლების მონახულება და ფოტოგრაფია. მიყვარს სიცოცხლე, კარგი მეგობრები და ღრმა ფილოსოფიური საუბრები. ვეძებ განათლებულ, თბილ ქალბატონს, ვისთანაც ერთად ვიმოგზაურებ და შევქმნი ბედნიერ ოჯახს.",
+    "interests": [
+      "ხატვა",
+      "მოგზაურობა",
+      "არქიტექტურა",
+      "ფოტოგრაფია",
+      "ლიტერატურა"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 58,
+    "preferredAgeMax": 68,
+    "preferredLocation": "თბილისი",
+    "languages": [
+      "ქართული",
+      "ინგლისური",
+      "რუსული"
+    ],
+    "lifestyle": "სახელოსნოში მუშაობა, ექსკურსიები, საღამოს ფეხით სეირნობა",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": false,
+    "lastActive": "2 საათის წინ",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-9",
+    "firstName": "მანანა",
+    "lastName": "ცინცაძე",
+    "email": "manana.tsintsadze@goldage.ge",
+    "birthDate": "1962-07-14",
+    "age": 64,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "ბათუმი",
+    "region": "აჭარა",
+    "photo": "/assets/portrait_manana_1791832946257-CPQb9cNM.jpg",
+    "gallery": [
+      "/assets/portrait_manana_1791832946257-CPQb9cNM.jpg"
+    ],
+    "bio": "ყოფილი პედაგოგი და ფილოლოგი ბათუმიდან. მიყვარს ზღვის ხედი, მშვიდი მუსიკა და დილის სეირნობა ბულვარზე. ვეძებ სანდო, კეთილგანწყობილ მამაკაცს გულწრფელი მეგობრობისა და ქორწინებისთვის.",
+    "interests": [
+      "ლიტერატურა",
+      "ზღვა",
+      "კლასიკური მუსიკა",
+      "კულინარია"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "ბათუმი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "ზღვისპირა სეირნობა, ჩაის დალევა აივანზე, კითხვა",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-10",
+    "firstName": "გია",
+    "lastName": "კალანდაძე",
+    "email": "gia.kalandadze@goldage.ge",
+    "birthDate": "1959-05-19",
+    "age": 67,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "სოლოლაკი",
+    "photo": "/assets/portrait_gia_1791832988429-DWE1thaz.jpg",
+    "gallery": [
+      "/assets/portrait_gia_1791832988429-DWE1thaz.jpg"
+    ],
+    "bio": "ისტორიკოსი, მკვლევარი. მიყვარს ძველი თბილისის ისტორია, მყუდრო კაფეებში წიგნის კითხვა და საინტერესო საუბრები. ვეძებ განათლებულ, თბილ ქალბატონს ცხოვრების ოქროს წლების ერთად გასატარებლად.",
+    "interests": [
+      "ისტორია",
+      "წიგნები",
+      "თეატრი",
+      "ყავა",
+      "მემკვიდრეობა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 58,
+    "preferredAgeMax": 68,
+    "preferredLocation": "თბილისი",
+    "languages": [
+      "ქართული",
+      "ინგლისური",
+      "რუსული"
+    ],
+    "lifestyle": "მშვიდი კულტურული ცხოვრება, საღამოს კითხვა, გასეირნება",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "აქტიურია",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-11",
+    "firstName": "ქეთევან",
+    "lastName": "ერისთავი",
+    "email": "ketevan.eristavi@goldage.ge",
+    "birthDate": "1964-09-11",
+    "age": 62,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "გორი",
+    "region": "შიდა ქართლი",
+    "photo": "/assets/portrait_ketevan_1791833038064-CB68U1Eo.jpg",
+    "gallery": [
+      "/assets/portrait_ketevan_1791833038064-CB68U1Eo.jpg"
+    ],
+    "bio": "ვცხოვრობ გორში, მაქვს ულამაზესი ხეხილის ბაღი. მიყვარს ოჯახური სითბო, მურაბების ხარშვა, სიმშვიდე და გულწრფელი ადამიანები. მსურს გავიცნო პატიოსანი და კეთილი მამაკაცი.",
+    "interests": [
+      "მებაღეობა",
+      "კულინარია",
+      "ბუნება",
+      "ხალხური სიმღერა"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "შიდა ქართლი ან თბილისი",
+    "languages": [
+      "ქართული"
+    ],
+    "lifestyle": "ბაღის მოვლა, ოჯახური მყუდროება, ჯანსაღი საკვები",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "10 წუთის წინ",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-12",
+    "firstName": "ვახუშტი",
+    "lastName": "გურგენიძე",
+    "email": "vakhushti.gurgenidze@goldage.ge",
+    "birthDate": "1956-02-04",
+    "age": 70,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "ბორჯომი",
+    "region": "სამცხე-ჯავახეთი",
+    "photo": "/assets/portrait_vakhushti_1791833087853-BYZIlPQv.jpg",
+    "gallery": [
+      "/assets/portrait_vakhushti_1791833087853-BYZIlPQv.jpg"
+    ],
+    "bio": "პენსიაზე გასული მეტყევე ბორჯომის რაიონიდან. მიყვარს მთის ჰაერი, ხის ნაკეთობების შექმნა და მშვიდი საღამოები. ვეძებ ერთგულ, მშვიდ ქალბატონს თანაცხოვრებისა და ურთიერთპატივისცემისთვის.",
+    "interests": [
+      "მთები",
+      "ხის დამუშავება",
+      "ბუნება",
+      "ჯანსაღი ცხოვრება"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "ბორჯომი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "დილის გასეირნება ფიჭვნარში, ხის სახელოსნო",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": false,
+    "lastActive": "3 საათის წინ",
+    "memberSince": "2025"
+  },
+  {
+    "id": "user-13",
+    "firstName": "მარინა",
+    "lastName": "ბარათაშვილი",
+    "email": "marina.baratashvili@goldage.ge",
+    "birthDate": "1967-11-28",
+    "age": 59,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "თელავი",
+    "region": "კახეთი",
+    "photo": "/assets/portrait_marina_1791833135220-C6TkQXVM.jpg",
+    "gallery": [
+      "/assets/portrait_marina_1791833135220-C6TkQXVM.jpg"
+    ],
+    "bio": "ვცხოვრობ სიღნაღთან ახლოს, ულამაზესი ალაზნის ველის ხედით. მიყვარს ქსოვა, ფერწერა, მასპინძლობა და კარგი ღვინო. ვეძებ მოსიყვარულე ადამიანს, ვისთანაც ერთად გავატარებ ცხოვრების ულამაზეს წლებს.",
+    "interests": [
+      "ხელოვნება",
+      "მეღვინეობა",
+      "მოგზაურობა",
+      "ფერწერა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 58,
+    "preferredAgeMax": 70,
+    "preferredLocation": "კახეთი ან თბილისი",
+    "languages": [
+      "ქართული",
+      "იტალიური"
+    ],
+    "lifestyle": "აივანზე ყავის დალევა, ხატვა, სიმშვიდე",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-14",
+    "firstName": "თამარ",
+    "lastName": "კობახიძე",
+    "email": "tamar.kobakhidze@goldage.ge",
+    "phone": "599 34 56 78",
+    "birthDate": "1970-03-12",
+    "age": 56,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "თბილისი",
+    "region": "ძველი თბილისი",
+    "photo": "/assets/portrait_tamar_1791862961739-Gp19NklL.jpg",
+    "gallery": [
+      "/assets/portrait_tamar_1791862961739-Gp19NklL.jpg"
+    ],
+    "bio": "ჩვეულებრივი, თბილი და მხიარული ადამიანი ვარ. მიყვარს ქალაქში სეირნობა, მეგობრებთან ყავის დალევა და კარგი საუბრები. ვეძებ სანდო, კეთილ მამაკაცს გულწრფელი ურთიერთობისთვის.",
+    "interests": [
+      "კაფეები",
+      "სეირნობა",
+      "კულინარია",
+      "კინო",
+      "მუსიკა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 54,
+    "preferredAgeMax": 68,
+    "preferredLocation": "თბილისი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "აქტიური ყოველდღიურობა, მეგობრები, მყუდრო საღამოები",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-15",
+    "firstName": "გიორგი",
+    "lastName": "ბერიძე",
+    "email": "giorgi.beridze@goldage.ge",
+    "phone": "577 12 34 56",
+    "birthDate": "1965-08-20",
+    "age": 61,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "ქუთაისი",
+    "region": "იმერეთი",
+    "photo": "/assets/portrait_giorgi_1791863026953-D_gtfvOH.jpg",
+    "gallery": [
+      "/assets/portrait_giorgi_1791863026953-D_gtfvOH.jpg"
+    ],
+    "bio": "პროფესიით მძღოლ-ინსტრუქტორი. მიყვარს ბუნებაში გასვლა, ფეხბურთი, მეგობრული შეკრებები და გულღია საუბარი. მარტოობა დამღლელია, ვეძებ სასიამოვნო ქალბატონს გასაცნობად.",
+    "interests": [
+      "მოგზაურობა",
+      "ფეხბურთი",
+      "ბუნება",
+      "ავტომობილები"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 52,
+    "preferredAgeMax": 65,
+    "preferredLocation": "ქუთაისი ან იმერეთი",
+    "languages": [
+      "ქართული"
+    ],
+    "lifestyle": "დილის ვარჯიში, მეგობრებთან შეხვედრა, მშვიდი ცხოვრება",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-16",
+    "firstName": "ნათელა",
+    "lastName": "დოლიძე",
+    "email": "natela.dolidze@goldage.ge",
+    "phone": "555 45 67 89",
+    "birthDate": "1963-06-15",
+    "age": 63,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "ბათუმი",
+    "region": "აჭარა",
+    "photo": "/assets/portrait_natela_1791863088246-BJzVvyGU.jpg",
+    "gallery": [
+      "/assets/portrait_natela_1791863088246-BJzVvyGU.jpg"
+    ],
+    "bio": "ბათუმელი ქალბატონი, მშვიდი და ყურადღებიანი. მიყვარს ზღვის სანაპიროზე ფეხით სიარული და ოჯახური სითბო. მსურს გავიცნო წესიერი, პატიოსანი მამაკაცი.",
+    "interests": [
+      "ზღვა",
+      "მებაღეობა",
+      "წიგნები",
+      "ქსოვა"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 60,
+    "preferredAgeMax": 72,
+    "preferredLocation": "ბათუმი ან დასავლეთ საქართველო",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "lifestyle": "სუფთა ჰაერი, ზღვისპირა გასეირნება, მყუდრო სახლი",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "5 წუთის წინ",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-17",
+    "firstName": "რეზო",
+    "lastName": "მაისურაძე",
+    "email": "rezo.maisuradze@goldage.ge",
+    "phone": "598 78 90 12",
+    "birthDate": "1961-04-03",
+    "age": 65,
+    "gender": "მამაკაცი",
+    "country": "საქართველო",
+    "city": "თელავი",
+    "region": "კახეთი",
+    "photo": "/assets/portrait_rezo_1791863157730-uTGYp3Rq.jpg",
+    "gallery": [
+      "/assets/portrait_rezo_1791863157730-uTGYp3Rq.jpg"
+    ],
+    "bio": "თელავში ვცხოვრობ, მაქვს პატარა ეზო და ვენახი. მიყვარს ბუნება, მშვიდი ცხოვრება და გულწრფელი ადამიანები. ვეძებ კეთილ, თბილ ქალბატონს ერთად ყოფნისთვის.",
+    "interests": [
+      "ბუნება",
+      "ვენახი",
+      "თევზაობა",
+      "ქართული სიმღერა"
+    ],
+    "relationshipGoal": "ქორწინება",
+    "preferredAgeMin": 58,
+    "preferredAgeMax": 68,
+    "preferredLocation": "კახეთი ან თბილისი",
+    "languages": [
+      "ქართული"
+    ],
+    "lifestyle": "ეზოში ფუსფუსი, სუფთა ჰაერი, სიმშვიდე",
+    "familyStatus": "ქვრივი",
+    "isVerified": true,
+    "isOnline": false,
+    "lastActive": "30 წუთის წინ",
+    "memberSince": "2026"
+  },
+  {
+    "id": "user-18",
+    "firstName": "ია",
+    "lastName": "ხუციშვილი",
+    "email": "ia.khutsishvili@goldage.ge",
+    "phone": "591 23 45 67",
+    "birthDate": "1968-10-25",
+    "age": 58,
+    "gender": "ქალი",
+    "country": "საქართველო",
+    "city": "რუსთავი",
+    "region": "ქვემო ქართლი",
+    "photo": "/assets/portrait_ia_1791863227073-D1FtoF0F.jpg",
+    "gallery": [
+      "/assets/portrait_ia_1791863227073-D1FtoF0F.jpg"
+    ],
+    "bio": "ვცხოვრობ რუსთავში. მიყვარს ყვავილები, მყუდრო აივანი, გემრიელი საჭმელების მომზადება და საინტერესო ადამიანებთან საუბარი. ვეძებ ერთგულ მეგობარსა და თანამგზავრს.",
+    "interests": [
+      "კულინარია",
+      "ყვავილები",
+      "მუსიკა",
+      "სეირნობა"
+    ],
+    "relationshipGoal": "სერიოზული ურთიერთობა",
+    "preferredAgeMin": 55,
+    "preferredAgeMax": 68,
+    "preferredLocation": "რუსთავი ან თბილისი",
+    "languages": [
+      "ქართული"
+    ],
+    "lifestyle": "სახლის მოვლა, აივანზე ჩაის დალევა, პოზიტივი",
+    "familyStatus": "განქორწინებული",
+    "isVerified": true,
+    "isOnline": true,
+    "lastActive": "ახლახან",
+    "memberSince": "2026"
+  }
+]

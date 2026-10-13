@@ -1,0 +1,6 @@
+{
+  "name": "GoldAge — უფროსი თაობის გაცნობა",
+  "description": "თბილი, სანდო და უსაფრთხო გაცნობისა და ქორწინების პლატფორმა უფროსი თაობისთვის (50+). იპოვეთ სიყვარული, მეგობრობა და ცხოვრების თანამგზავრი მარტივი რეგისტრაციით Google-ის გარეშე.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
